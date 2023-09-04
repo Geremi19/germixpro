@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853368069938",
+    "project_id": "glucobalance-4e212",
+    "storage_bucket": "glucobalance-4e212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853368069938:android:36c0900cf9b871a520012b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853368069938-3454nfgbld1umqmh67v644vdgl4nlbtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07vCxVLUMazqdaS0H0f-S5J6feziONSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853368069938-3454nfgbld1umqmh67v644vdgl4nlbtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
