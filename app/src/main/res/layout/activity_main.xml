@@ -58,7 +58,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="225dp"
+        android:layout_marginTop="156dp"
         android:text="Bienvenido de nuevo!"
         android:textColor="#FFFFFF"
         android:textSize="26sp"
@@ -113,20 +113,8 @@
         android:rotationY="50"
         android:src="@drawable/circulo"
         android:translationX="-10dp"
-        android:translationY="-120dp"
+        android:translationY="-170dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_marginTop="32dp"
-        android:rotationY="0"
-        android:src="@drawable/circulo"
-        android:translationX="35dp"
-        android:translationY="-90dp"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
